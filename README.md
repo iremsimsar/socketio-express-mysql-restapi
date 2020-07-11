@@ -1,4 +1,4 @@
-# SOCKET.-O-Express-Sequelize-MYSQL-With-Node.js-Rest-API-
+# SOCKET.İO-Express-Sequelize-MYSQL-With-Node.js-Rest-API-
 
 Socket.io her platformda çalışan güvenilir ve hızlı olmaya odaklanmış, gerçek zamanlı,
 çift yönlü ve olay tabanlı bir iletişimi sağlayan yapıdır.
