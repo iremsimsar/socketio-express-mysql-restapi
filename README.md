@@ -1,4 +1,4 @@
-# SOCKET.İO-Express-Sequelize-MYSQL-With-Node.js-Rest-API-
+# socketio-express-mysql-restapi
 
 Bu projede, Express, MySQL veritabanı ile Sequelize Ve Socket.io kullanılarak Node.js Rest API oluşturuldu.
 
